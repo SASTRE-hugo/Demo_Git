@@ -11,9 +11,9 @@ namespace Demo_Git
         static void Main(string[] args)
         {
 
-       ///kkkkk
-       ///
-
+            Console.WriteLine("bonjour !!");
+            Console.ReadLine();
+            // hgugjkdk
 
 
 
